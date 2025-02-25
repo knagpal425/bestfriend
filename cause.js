@@ -6,7 +6,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
+        text: "Meri Koi Baat Nahi Manti Isliyee 😒💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
